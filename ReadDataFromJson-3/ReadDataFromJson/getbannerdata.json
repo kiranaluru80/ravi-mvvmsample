@@ -1,0 +1,632 @@
+﻿[
+  {
+    "MajorGroup_Id": "705",
+    "MajorGroup_Name": "CE Environ Health & Safety",
+    "Organizations": [
+      {
+        "Org_Id": "705",
+        "Org_Name": "Environment Health & Safety",
+        "Departments": [
+          {
+            "Dept_Id": "144",
+            "Dept_Name": "EHS Operations",
+            "Sections": [
+              {
+                "Section_Id": "115",
+                "Section_Name": "EHS OPS Manhattan Electric"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "220",
+            "Dept_Name": "Remediation",
+            "Sections": [
+              {
+                "Section_Id": "849",
+                "Section_Name": "EHS Remediation & Legacy"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "122",
+            "Dept_Name": "Off Of VP Envi Health & Safety",
+            "Sections": [
+              {
+                "Section_Id": "711",
+                "Section_Name": "EHS Office of VP EHS"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "134",
+            "Dept_Name": "Engineering & Construction",
+            "Sections": [
+              {
+                "Section_Id": "187",
+                "Section_Name": "EHS Sustainable Infrastructure"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "136",
+            "Dept_Name": "Health & Safety",
+            "Sections": [
+              {
+                "Section_Id": "021",
+                "Section_Name": "EHS Safety"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "137",
+            "Dept_Name": "EHS Program Management",
+            "Sections": [
+              {
+                "Section_Id": "971",
+                "Section_Name": "EHS Programs"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "141",
+            "Dept_Name": "EHS Field Services",
+            "Sections": [
+              {
+                "Section_Id": "907",
+                "Section_Name": "EHS Field Services"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "142",
+            "Dept_Name": "Environment & Steam Ops",
+            "Sections": [
+              {
+                "Section_Id": "175",
+                "Section_Name": "EHS Air Resources"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "706",
+    "MajorGroup_Name": "CE Electric Operations",
+    "Organizations": [
+      {
+        "Org_Id": "720",
+        "Org_Name": "Bronx & Westchester",
+        "Departments": [
+          {
+            "Dept_Id": "327",
+            "Dept_Name": "Bronx & West Electric Ops",
+            "Sections": [
+              {
+                "Section_Id": "662",
+                "Section_Name": "BW Emergency South"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "527",
+            "Dept_Name": "Central Support Operations",
+            "Sections": [
+              {
+                "Section_Id": "097",
+                "Section_Name": "BW Supp Ops Admin Supp"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "132",
+            "Dept_Name": "Off Of VP Bronx & West",
+            "Sections": [
+              {
+                "Section_Id": "747",
+                "Section_Name": "BW Office of VP"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "325",
+            "Dept_Name": "Electric Construction Networks",
+            "Sections": [
+              {
+                "Section_Id": "253",
+                "Section_Name": "BW Environmental Ops"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "326",
+            "Dept_Name": "Bronx & West Electric Constr",
+            "Sections": [
+              {
+                "Section_Id": "251",
+                "Section_Name": "BW Overhead East"
+              }
+            ]
+          }
+       ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      },
+      {
+        "Org_Id": "706",
+        "Org_Name": "Electric Operations",
+        "Departments": [
+          {
+            "Dept_Id": "117",
+            "Dept_Name": "Off Sr VP Electric Oprs",
+            "Sections": [
+              {
+                "Section_Id": "095",
+                "Section_Name": "ELEC OPS Work Management Team"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "958",
+            "Dept_Name": "AMI Implementation Team Elec",
+            "Sections": [
+              {
+                "Section_Id": "149",
+                "Section_Name": "Elec AMI Deployment North"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      },
+      {
+        "Org_Id": "729",
+        "Org_Name": "Manhattan",
+        "Departments": [
+          {
+            "Dept_Id": "515",
+            "Dept_Name": "Manhattan Elect Construction",
+            "Sections": [
+              {
+                "Section_Id": "161",
+                "Section_Name": "MANH District 3 Underground"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "130",
+            "Dept_Name": "Off Of VP Manhattan",
+            "Sections": [
+              {
+                "Section_Id": "137",
+                "Section_Name": "MANH Elec Ops Cust Advocacy"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "513",
+            "Dept_Name": "Manhattan Electric Operations",
+            "Sections": [
+              {
+                "Section_Id": "123",
+                "Section_Name": "MANH Electric Ops GM & Staff"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      },
+      {
+        "Org_Id": "722",
+        "Org_Name": "Bklyn & Queens",
+        "Departments": [
+          {
+            "Dept_Id": "131",
+            "Dept_Name": "Off Of VP Bklyn & Queens",
+            "Sections": [
+              {
+                "Section_Id": "702",
+                "Section_Name": "BQ Office of VP"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "311",
+            "Dept_Name": "BQ Overhead & Services",
+            "Sections": [
+              {
+                "Section_Id": "116",
+                "Section_Name": "BQ Electric Services Mgmt"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "312",
+            "Dept_Name": "Bklyn & Qns Undrgrnd & Equipmt",
+            "Sections": [
+              {
+                "Section_Id": "444",
+                "Section_Name": "BQ Equipment"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "313",
+            "Dept_Name": "Bklyn & Qns Electric Ops",
+            "Sections": [
+              {
+                "Section_Id": "408",
+                "Section_Name": "BQ Project Management"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "314",
+            "Dept_Name": "Bklyn & Qns Operations Svcs",
+            "Sections": [
+              {
+                "Section_Id": "407",
+                "Section_Name": "BQ Field Services"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "753",
+    "MajorGroup_Name": "CE Central Operations",
+    "Organizations": [
+      {
+        "Org_Id": "762",
+        "Org_Name": "Steam Operations",
+        "Departments": [
+          {
+            "Dept_Id": "243",
+            "Dept_Name": "59th Street Station",
+            "Sections": [
+              {
+                "Section_Id": "992",
+                "Section_Name": "STEAM OPS 59th St Station Svcs"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "248",
+            "Dept_Name": "East River Station",
+            "Sections": [
+              {
+                "Section_Id": "905",
+                "Section_Name": "STEAM OPS East River Ops"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "249",
+            "Dept_Name": "74th Street Station",
+            "Sections": [
+              {
+                "Section_Id": "900",
+                "Section_Name": "STEAM OPS 74th St Ops PHMSA"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "655",
+            "Dept_Name": "Steam Operations",
+            "Sections": [
+              {
+                "Section_Id": "317",
+                "Section_Name": "STEAM OPS ReportingAudits APPO"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "657",
+            "Dept_Name": "Steam Services",
+            "Sections": [
+              {
+                "Section_Id": "016",
+                "Section_Name": "STEAM OPS Steam Ops Planning"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "153",
+            "Dept_Name": "Off Of VP Steam Operations",
+            "Sections": [
+              {
+                "Section_Id": "068",
+                "Section_Name": "STEAM OPS Office of VP"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "221",
+            "Dept_Name": "Steam Distribution",
+            "Sections": [
+              {
+                "Section_Id": "010",
+                "Section_Name": "STEAM OPS Perform Projects Grp"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "242",
+            "Dept_Name": "Hudson Avenue Station",
+            "Sections": [
+              {
+                "Section_Id": "912",
+                "Section_Name": "STEAM OPS Hudson Ave Ops APPO"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      },
+      {
+        "Org_Id": "734",
+        "Org_Name": "Construction",
+        "Departments": [
+          {
+            "Dept_Id": "002",
+            "Dept_Name": "Construction Quality Assurance",
+            "Sections": [
+              {
+                "Section_Id": "089",
+                "Section_Name": "CONST Quality Assurance"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "003",
+            "Dept_Name": "Central Construction",
+            "Sections": [
+              {
+               "Section_Id": "234",
+                "Section_Name": "CONST  Remediation & Demo"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "004",
+            "Dept_Name": "Construction Mgmt Gas",
+            "Sections": [
+              {
+                "Section_Id": "203",
+                "Section_Name": "CONST Manhattan Const Mgmt Gas"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "121",
+            "Dept_Name": "Off Of VP Mtce & Constr Servs",
+            "Sections": [
+              {
+                "Section_Id": "717",
+                "Section_Name": "CONST Office of VP"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "668",
+            "Dept_Name": "Public Improvement",
+            "Sections": [
+              {
+                "Section_Id": "169",
+                "Section_Name": "CONST Pub Improv/Eng- Major Pr"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "261",
+            "Dept_Name": "Construction Services",
+            "Sections": [
+              {
+                "Section_Id": "825",
+                "Section_Name": "CONST Const Svcs Dept Off"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "263",
+            "Dept_Name": "Construction Business Services",
+            "Sections": [
+              {
+                "Section_Id": "281",
+                "Section_Name": "CONST Permit Administration"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "667",
+            "Dept_Name": "Construction Mgmt Electric",
+            "Sections": [
+              {
+                "Section_Id": "360",
+                "Section_Name": "CONST Manh Const Mgmt Elect"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "748",
+    "MajorGroup_Name": "CE Customer Operations",
+    "Organizations": [
+      {
+        "Org_Id": "748",
+        "Org_Name": "Customer Operations",
+        "Departments": [
+          {
+            "Dept_Id": "128",
+            "Dept_Name": "Off Sr VP Customer Ops",
+            "Sections": [
+              {
+                "Section_Id": "678",
+                "Section_Name": "CUST OPS Office of SVP"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "301",
+            "Dept_Name": "Field Operations",
+            "Sections": [
+              {
+                "Section_Id": "037",
+                "Section_Name": "CUST OPS Auto Meter Reading"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "303",
+            "Dept_Name": "Customer Assistance",
+            "Sections": [
+              {
+                "Section_Id": "313",
+                "Section_Name": "CUST OPS South Cust Exp Center"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "304",
+            "Dept_Name": "Strategic Applications",
+            "Sections": [
+              {
+                "Section_Id": "060",
+                "Section_Name": "CUST OPS Reg Perf Analysis"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "305",
+            "Dept_Name": "Specialized Activities",
+            "Sections": [
+              {
+                "Section_Id": "024",
+                "Section_Name": "CUST OPS Gen Mgr & Staff"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "306",
+            "Dept_Name": "Customer Operations Admin",
+            "Sections": [
+              {
+                "Section_Id": "034",
+                "Section_Name": "CUST OPS Customer Outreach"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "700",
+    "MajorGroup_Name": "CE Chair of the Board & CEO",
+    "Organizations": [
+      {
+        "Org_Id": "700",
+        "Org_Name": "Chairman Of The Board & CEO",
+        "Departments": [
+          {
+            "Dept_Id": "101",
+            "Dept_Name": "Officers And Executives",
+            "Sections": [
+              {
+                "Section_Id": "700",
+                "Section_Name": "CHAIRMAN CEO Officers and Exec"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "704",
+    "MajorGroup_Name": "CE Finance",
+    "Organizations": [
+      {
+        "Org_Id": "704",
+        "Org_Name": "Finance",
+        "Departments": [
+          {
+            "Dept_Id": "108",
+            "Dept_Name": "Off Sr V P & CFO Finance",
+            "Sections": [
+              {
+                "Section_Id": "709",
+                "Section_Name": "Finance Investor Relations"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+  },
+  {
+    "MajorGroup_Id": "728",
+   "MajorGroup_Name": "CE Law",
+    "Organizations": [
+      {
+        "Org_Id": "728",
+        "Org_Name": "Law",
+        "Departments": [
+          {
+            "Dept_Id": "903",
+            "Dept_Name": "Law",
+            "Sections": [
+              {
+                "Section_Id": "875",
+                "Section_Name": "LAW Environmental"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "905",
+            "Dept_Name": "Comm Trans, Corp & Finance",
+            "Sections": [
+             {
+                "Section_Id": "874",
+                "Section_Name": "LAW Corp and Finance"
+              }
+            ]
+          },
+          {
+            "Dept_Id": "906",
+            "Dept_Name": "Commercial Litigation",
+            "Sections": [
+              {
+                "Section_Id": "734",
+                "Section_Name": "LAW Commerical Litigation"
+              }
+            ]
+          }
+        ],
+        "MajorGroup_Id": null,
+        "MajorGroup_Name": null
+      }
+    ]
+ }
+]

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{18E96A13-D497-4684-8A0B-DB204F7A65A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadDataFromJson/ReadDataViewModel.cs">
+    <Files>
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" Line="17" Column="1" />
+      <File FileName="ReadDataFromJson/OutPut.cs" Line="32" Column="2" />
+      <File FileName="ReadDataFromJson/getbannerdata.json" Line="632" Column="2" />
+      <File FileName="ReadDataFromJson/ResponceModel.cs" Line="31" Column="32" />
+      <File FileName="ReadDataFromJson/ViewModelBase.cs" Line="15" Column="5" />
+      <File FileName="ReadDataFromJson/ReadDataViewModel.cs" Line="8" Column="27" />
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJson-3/ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" relfile="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" line="16" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJson-3/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="23" column="88" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJson-3/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="30" column="35" />
+      <Breakpoint file="/Users/ravikiranreddy/Downloads/ReadDataFromJson-3/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadDataFromJson.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+</Properties>
